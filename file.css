@@ -90,3 +90,13 @@ body {
 .dark-mode .photo-wrapper {
     box-shadow: 0 0 30px #d200ff;
 }
+.btn-light {
+    font-weight: 600;
+    border-radius: 8px;
+    transition: 0.3s;
+}
+
+.btn-light:hover {
+    background-color: #ff9fe6;
+    color: #3a0032;
+}
