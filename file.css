@@ -100,3 +100,6 @@ body {
     background-color: #ff9fe6;
     color: #3a0032;
 }
+.btn-light i {
+    margin-right: 6px;
+}
